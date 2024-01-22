@@ -1,0 +1,2 @@
+# Webscrapping simple table
+Le webscrapping est une technique d'extraction de données de sites web par l'utilisation d'un script ou d'un orogramme. c'est souvent l'une des sources de données des organisations. Nous avions besoin des données sur les communes du Cameroun et leur type. L'information était disponible sur un site web à l'addresse https://fr.wikipedia.org/wiki/Commune_(Cameroun). Notre seul recours était d'extraire ces données par webscrapping. Voir image ci dessous.
