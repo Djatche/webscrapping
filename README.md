@@ -8,8 +8,8 @@ Le webscrapping est une technique d'extraction de données de sites web par l'ut
 
 Après inspection de la page (script html), le tableau qui nous interesse est dans une balise "table" où l'attribut "class" a pour valeur "wikitable sortable centre".
 
-![inspect page wik communes cameroun](C:\Users\hp\Documents\Projects\webscrapping\inspect1.PNG)
+![inspect page wik communes cameroun](https://github.com/Djatche/webscrapping/blob/master/inspect1.PNG)
 
-![inspect page wik communes cameroun](C:\Users\hp\Documents\Projects\webscrapping\inspect2.PNG)
+![inspect page wik communes cameroun](https://github.com/Djatche/webscrapping/blob/master/inspect2.PNG)
 
 Les données int été extraites et converties en dataframe puis sauvegardées sous fichier csv.
