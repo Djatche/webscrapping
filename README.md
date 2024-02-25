@@ -7,4 +7,9 @@ Le webscrapping est une technique d'extraction de données de sites web par l'ut
 ![site_web_communes_cameroun_2](https://github.com/Djatche/webscrapping/assets/5621807/d770d7bd-5ec5-4bc2-a8ed-03aebd644d80)
 
 Après inspection de la page (script html), le tableau qui nous interesse est dans une balise "table" où l'attribut "class" a pour valeur "wikitable sortable centre".
+
+![inspect page wik communes cameroun](C:\Users\hp\Documents\Projects\webscrapping\inspect1.PNG)
+
+![inspect page wik communes cameroun](C:\Users\hp\Documents\Projects\webscrapping\inspect2.PNG)
+
 Les données int été extraites et converties en dataframe puis sauvegardées sous fichier csv.
